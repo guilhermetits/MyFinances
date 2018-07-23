@@ -30,7 +30,7 @@ ext.deps = [
                 'roboletric': "org.robolectric:robolectric:${versions.roboletric}"
         ],
         'kotlin' : [
-                'stdLibJre8': "org.jetbrains.kotlin:kotlin-stdlib-jdk8:${versions.kotlin}",
+                'stdLibJdk8': "org.jetbrains.kotlin:kotlin-stdlib-jdk8:${versions.kotlin}",
                 'plugin'    : "org.jetbrains.kotlin:kotlin-gradle-plugin:${versions.kotlin}",
 
         ],
